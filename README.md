@@ -4,7 +4,7 @@
 
 Send messages via WhatsApp without storing the contact.
 
-🔗 [Go to the website](https://javierorp.github.io/wa-no-contactr/)
+🔗 [Go to the website](https://javierorp.github.io/wa-no-contact/)
 
 <br/>
 <br/>
