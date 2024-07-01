@@ -197,7 +197,8 @@ function App() {
           className="text-center px-3 mt-4"
           style={{ overflow: "auto", animation: "fadeIn 0.5s" }}
         >
-          If the button does not work correctly, copy this link in your browser:
+          If the button does not work correctly, copy and paste this link in
+          your browser:
           <br />
           <a title="Link to WhatsApp API" target="_blank" href={link}>
             {link}
