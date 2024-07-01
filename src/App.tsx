@@ -157,6 +157,8 @@ function App() {
             International calling code
           </Form.Label>
           <Form.Control
+            type="text"
+            inputMode="numeric"
             id="callingCode"
             aria-label="International Calling Code"
             value={callingCode}
