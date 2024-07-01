@@ -107,7 +107,12 @@ function App() {
   return (
     <>
       <div className="text-center mt-5 px-3">
-        <img className="img-fluid" src="/logo.svg" alt="Logo" width={100} />
+        <img
+          className="img-fluid"
+          src="https://raw.githubusercontent.com/javierorp/wa-no-contact/gh-pages/logo.svg"
+          alt="Logo"
+          width={100}
+        />
         <h1 className="mt-3">Send WA no contact</h1>
         <p style={{ fontSize: "1.2rem" }}>
           Send messages via WhatsApp without storing the contact*
